@@ -273,17 +273,16 @@ df <- data.frame(x, y)
 sjPlot::plot_scatter(df,x,y, fit.line="lm")
 ```
 
+
+
+
 ---
 
 ![https://www.guessthecorrelation.com/](https://www.guessthecorrelation.com/)
 
+
+
+
 ---
 
-# Literatura recomendada  
-
-- Cohen, J., Cohen, P., West, S. G., & Aiken, L. S. (2003). *Applied Multiple Regression/Correlation Analysis for the Behavioral Sciences*. Lawrence Erlbaum Associates.  
-- Field, A. (2018). *Discovering Statistics Using R*. Sage.  
-- Hernán, M. A., & Robins, J. M. (2020). *Causal Inference: What If*. Chapman & Hall/CRC.  
-
-
-
+![](images/qr-code.png)
