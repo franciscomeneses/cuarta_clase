@@ -278,11 +278,14 @@ sjPlot::plot_scatter(df,x,y, fit.line="lm")
 
 ---
 
-![https://www.guessthecorrelation.com/](https://www.guessthecorrelation.com/)
+[https://www.guessthecorrelation.com/](https://www.guessthecorrelation.com/)
 
 
 
 
 ---
 
-![](images/qr-code.png)
+
+.center[
+<img src="images/qr-code.png" width="60%">
+]
