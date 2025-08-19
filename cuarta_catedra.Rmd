@@ -202,7 +202,7 @@ C) **Fuerza**
 
 ---
 
-# Ejemplo aplicado (conceptual)  
+# Ejemplo aplicado (conceptual).  
 
 - Supongamos que obtenemos un coeficiente de correlación de **r = 0.84** con 30 observaciones.  
 
