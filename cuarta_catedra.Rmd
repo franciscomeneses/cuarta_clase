@@ -45,7 +45,7 @@ About macros.js: permite escalar las imágenes como [:scale 50%](path to image),
 --->
 
 # __Cuarta Clase Métodos Cuantitativos II__
-## *Pricipios de la causalidad y análisis de correlación*
+## *Principios de la causalidad y análisis de correlación*
 <br>
 <hr>
 
@@ -95,13 +95,13 @@ C) **No espurias**: no existen otros factores que expliquen la asociación.
 
 - **Error de falta de Asociación**  
 
-  Ejemplo: *Las vacunas del COVID generan infertilidad - Cuando no existe evidencia de que la gente vacunada con COVID-19 sea menos fertil que la gente no vacunada*.  
+  Ejemplo: *Las vacunas del COVID generan infertilidad - Cuando no existe evidencia de que la gente vacunada con COVID-19 sea menos fértil que la gente no vacunada*.  
 
 --
   
-- **Error de variable alternativa (correlación espurea)**  
+- **Error de variable alternativa (correlación espuria)**  
 
-  Ejemplo: *El aumento de la vacunación ha aumentado los niveles de autismo -  Ambas cosas se deben a una expansión de los servicios medicos*.  
+  Ejemplo: *El aumento de la vacunación ha aumentado los niveles de autismo - Ambas cosas se deben a una expansión de los servicios médicos*.  
 
   Otros ejemplos: feminismo-violencia, helados-ahogos
 
@@ -115,7 +115,7 @@ C) **No espurias**: no existen otros factores que expliquen la asociación.
 
 * Nos dan seguridad de no espuriedad (por aleatorio)
 
-* Dificiles de aplicar en la practica
+* Difíciles de aplicar en la practica
 
 
 
@@ -128,9 +128,9 @@ C) **No espurias**: no existen otros factores que expliquen la asociación.
 
 *  Comprobar causalidad requiere de tres supuestos: temporal, asociación, no espuriedad
 
-*  La correlación no implica causalidad, pero es una condicion de ella 
+*  La correlación no implica causalidad, pero es una condición de ella 
 
-*  Los experimentos son una forma confiable de causalidad, pero poco practicos en CCSS
+*  Los experimentos son una forma confiable de causalidad, pero poco prácticos en CCSS
 
 
 
@@ -146,7 +146,7 @@ class: inverse, middle, center, slideInRight
 - Mide la **intensidad y dirección** de la relación lineal entre dos variables.  
 - Sus valores están entre -1 y 1.  
 
-**Interpretación:**  
+**Interpretación: **  
 - +1 → relación lineal positiva perfecta.  
 - -1 → relación lineal negativa perfecta.  
 - 0 → ausencia de relación lineal.  
@@ -177,8 +177,11 @@ class: inverse, middle, center, slideInRight
 ## Consideración clave  
 
 - La correlación de Pearson **no establece causalidad**.  
+
 - **No propone dirección temporal**:  
+
   - No podemos afirmar si A causa B o B causa A.  
+
   - Solo indica que **ambas se mueven juntas** en cierta medida.  
 
 ---
@@ -195,6 +198,7 @@ C) **Fuerza**
 - |r| cercano a 1 = relación fuerte.  
 - |r| cercano a 0 = relación débil.  
 
+> La fuerza nos indica cuanto se ajustan los puntos a la línea, no la pendiente
 
 ---
 
